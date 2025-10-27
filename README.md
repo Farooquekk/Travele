@@ -1,12 +1,13 @@
 
 ## 🧳 Travely – Your Simple Travel Mate
 
+
 ### 👨‍💻 Developed By
 
 | Name                | Roll No | Department           |
 | ------------------- | ------- | -------------------- |
-| **Farooque Sajjad** | 22SW028 | Software Engineering |
-| **Arbab Hussain**   | 22SW040 | Software Engineering |
+| **Farooque Sajjad** | 22SW040 | Software Engineering |
+| **Arbab Hussain**   | 22SW028 | Software Engineering |
 
 **Section:** 01  
 **Course:** Mobile Application Development (MAD)  
@@ -115,6 +116,7 @@ This project is for **educational purposes** under MUET Jamshoro.
 Free to use and modify with proper credit to the authors.
 
 ---
+
 
 
 
