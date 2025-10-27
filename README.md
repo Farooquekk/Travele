@@ -100,8 +100,8 @@ Travely uses **Firebase Firestore** because it provides:
 ### 📌 **How to Run**
 
 ```bash
-git clone https://github.com/your-repo-link/travely.git
-cd travely
+git clone https://github.com/Farooquekk/Travely.git
+cd Travely
 flutter pub get
 flutter run
 ```
@@ -116,6 +116,7 @@ This project is for **educational purposes** under MUET Jamshoro.
 Free to use and modify with proper credit to the authors.
 
 ---
+
 
 
 
