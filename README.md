@@ -1,8 +1,6 @@
 
 ## 🧳 Travely – Your Simple Travel Mate
 
----
-
 ### 👨‍💻 Developed By
 
 | Name                | Roll No | Department           |
@@ -117,5 +115,6 @@ This project is for **educational purposes** under MUET Jamshoro.
 Free to use and modify with proper credit to the authors.
 
 ---
+
 
 
