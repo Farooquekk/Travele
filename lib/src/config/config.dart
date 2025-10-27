@@ -1,4 +1,5 @@
 class AppConfig {
   static const unsplashAccessKey =
-      'daMuSJQvAay-ieR8xXboVUc8DqZjAnupkw77qY2S1Bg';
+      'Key Removed From Production Build For Security Purposes, The user of this Repo can add his own unsplash key here...';
 }
+
