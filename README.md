@@ -1,19 +1,18 @@
+
+## 🧳 Travely – Your Simple Travel Mate
+
 ---
 
-## 🧳 **Travely – Your Simple Travel Mate**
-
-*A modern, lightweight travel companion to explore cities around the world.*
-
-### 👨‍💻 **Developed By**
+### 👨‍💻 Developed By
 
 | Name                | Roll No | Department           |
 | ------------------- | ------- | -------------------- |
 | **Farooque Sajjad** | 22SW028 | Software Engineering |
 | **Arbab Hussain**   | 22SW040 | Software Engineering |
 
-**Section:** 01
-**Course:** Mobile Application Development (MAD)
-**Institute:** *Mehran University of Engineering & Technology, Jamshoro – Pakistan*
+**Section:** 01  
+**Course:** Mobile Application Development (MAD)  
+**Institute:** *Mehran University of Engineering & Technology, Jamshoro – Pakistan*  
 **Instructor:** *Ma’am Maryam*
 
 ---
@@ -118,4 +117,5 @@ This project is for **educational purposes** under MUET Jamshoro.
 Free to use and modify with proper credit to the authors.
 
 ---
+
 
